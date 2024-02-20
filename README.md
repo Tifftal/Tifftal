@@ -1,4 +1,4 @@
-## 🔍 About me: 
+### 🔍 About me: 
 Hello there! 👋
 
 Welcome to my GitHub site! My name is Talankina Varvara, and I am a junior frontend developer adn a student of the Bauman Moscow State Technical University with a degree in Information Processing and Management Systems (specialization: IU5). I am passionate about technology, programming and exploring innovative solutions.
